@@ -1,4 +1,4 @@
-package bjornno.camel.component.dbwork;
+package com.github.dbwork;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.impl.DefaultProducer;

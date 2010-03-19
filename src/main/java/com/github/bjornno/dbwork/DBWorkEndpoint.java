@@ -1,4 +1,4 @@
-package bjornno.camel.component.dbwork;
+package com.github.bjornno.dbwork;
 
 import org.apache.camel.Component;
 import org.apache.camel.Consumer;

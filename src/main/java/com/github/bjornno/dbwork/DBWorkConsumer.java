@@ -1,4 +1,4 @@
-package bjornno.camel.component.dbwork;
+package com.github.bjornno.dbwork;
 
 import org.apache.camel.ExchangePattern;
 import org.apache.camel.Message;
